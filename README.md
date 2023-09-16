@@ -1,0 +1,1 @@
+# A minikube starter template
